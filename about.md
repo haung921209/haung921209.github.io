@@ -7,11 +7,10 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+안녕하세요! 저는 2020 NHN Rookies 7기 오형민입니다.
+본 블로그는 운영 될 수도 안 될 수도 있습니다. 다른 저장 방식이 좀 더 마음에 들었기 때문입니다. 하지만, 연동 방법을 고민하고 있기 때문에 곧 될 수도 안 될 수도 있습니다.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+저는 요리를 좋아합니다. 하지만 먹는 것을 더 좋아합니다. 특히 제 앞에 고기가 있을 경우 부지런히 젓가락질 하는 제 모습을 보실 수 있습니다. 사실 보시지 말고 직접 신속히 드시는 것을 추천드립니다.
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
